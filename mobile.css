@@ -1,0 +1,313 @@
+@media screen /*and (min-width: 320px)*/ and (max-width:500px) {
+    body {
+        overflow-x: hidden;
+    }
+
+    header {
+        background-image: none;
+        background-color: #f5c506;
+        display: flex;
+    }
+
+    .header_nav {
+        padding-left: 0px;
+    }
+
+    .theyallow_header {
+        font-size: 10px;
+        padding-top: 10px; 
+        padding-right: 8px;
+    }
+
+    .logo {
+        background-color: #5a5a5a;
+        padding-left: 10px;
+    }
+
+    .logo img {
+        height: 15px;
+        padding-top: 6px;
+        padding-bottom: 6px;
+    }
+
+    .craft_by {
+        display: none;
+    }
+
+    .rectangle {
+        display: none;
+    }
+
+    .navigation {
+        width: auto;
+        position: static;
+        margin: 0px;
+
+    }
+
+    .navigation_list {
+        display: inline-block;
+        border-right: 1px solid #dcb105;
+        padding-right: 6px;
+        line-height: 2.5em;
+        font-size: 8px;
+    }
+
+    .navigation .navigation_list img {
+        height: 10px;
+        padding-top: 10px;
+        padding-right: 4px;
+        padding-left: 4px;
+    }
+    
+    .navigation li:first-child {
+        padding-left: 10.5px;
+    }
+
+    .slogan {
+        display: none;
+    }
+
+    .video_mobile {
+        display: inline;
+    }
+
+    .add_content {
+        position: relative;
+    }
+
+    .video_mobile img {
+        top: 0px;
+        left: 0px;
+        width: 100%;
+    }
+
+    .rectangle_video {
+        background-color: #dcb105;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        height: 100%;
+        width: 100%;
+        opacity: 0.2;
+    }
+
+    .add_content > .fa-play {
+        position: absolute;
+        top: 30.2%;
+        right: 40%;
+    }
+
+    .player {
+        display: flex;
+        position: absolute;
+        bottom: 15px;
+        width: 100%;
+    }
+
+    .player > .fa-play {
+        position: static;
+        font-size: 7px;
+        padding: 3px;
+        border-radius: 0%;
+        margin-left: 13%;
+    }
+
+    .viewed {
+        width: 20%;
+        height: 10px;
+        background-color: #f5c507;
+        opacity: 1;
+        position: relative;
+        top: 0px;
+        left: 20px;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+    }
+    
+    .watch_next {
+        width: 30%;
+        height: 10px;
+        background-color: #f5c507;
+        opacity: 0.5;
+        border-top-right-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    .player > .fa-volume-up {
+        color: #f5c506;
+        font-size: 7px;
+        padding-top: 2px;
+        padding-left: 3%;
+    }
+
+    .cards {
+        padding-bottom: 20px;
+    }
+
+    .cards p {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .better_design {
+        padding-top: 43px;
+        padding-left: 3%;
+        padding-right: 14%;
+    }
+
+    .better_design img{
+        width: 80px;
+    }
+
+    .customize img {
+        width: 60px;
+    }
+
+    .its_free img {
+        width: 62px;
+    }
+
+    .its_free {
+        padding-left: 15%;
+        padding-top: 35px;
+    }
+
+    .container {
+        background-image: none;
+        padding: 0px;
+    }
+
+    .container h2 {
+        display: none;
+    }
+
+    .cards img {
+        padding-bottom: 10px;
+    }
+
+    .content {
+        display: block;
+        padding: 0px;
+    }
+
+    .text {
+        margin-left: 3px;
+        margin-right: 3px;
+        padding: 12px 18px 0px 16px;
+        width: 50%;
+        font-size: 13px;
+        line-height: 1.2em;
+    }
+
+    .text > .fa-plus {
+        position: absolute;
+        top: auto;
+        bottom: 13px;
+        right: 5px;
+        left: auto;
+        font-size: 8px;
+    }
+
+    .video {
+        width: 50%;
+        margin-right: 3px;
+    }
+
+    .video img {
+        width: 100%;
+        margin-right: 3px;
+    }
+
+    .twitter {
+        margin: 0px;
+        margin-top: 3px;
+        padding-bottom: 15px;
+        min-width: none;
+        max-width: 100%;
+        padding-left: 0px;
+    }
+
+    .fa-twitter {
+        font-size: 130px;
+        padding-left: 33%;
+        padding-top: 20px;
+    }
+
+    .twitter_number {
+        display: none;
+    }
+
+    .video > .fa-play {
+        position: absolute;
+        top: 40%;
+        right: 40%;
+        font-size: 16px;
+        padding-top: 7px;
+        padding-right: 8px;
+        padding-bottom: 7px;
+        padding-left: 12px;
+    }
+
+    .twitter > .fa-plus {
+        display: none;
+    }
+
+    .h2_devices_ul {
+        padding-top: 20px;
+    }
+
+    .h2_devices_ul h2 {
+        font-size: 18px;
+        padding-left: 11px;
+        text-align: left;
+    }
+
+    .devices_ul {
+        padding-top: 0px;
+        padding-bottom: 10px;
+    }
+
+    .computer img{
+        width: 140px;
+        padding-top: 30px;
+    }
+
+    .tablet img {
+        width: 60px;
+    }
+
+    .smartphone {
+        padding-top: 82px;
+    }
+
+    .smartphone img{
+        width: 25px;
+    }
+
+    .computer .its_100_free {
+        font-size: 6px;
+        padding-top: 20px;
+        padding-right: 4px;
+        padding-bottom: 23px;
+        padding-left: 4px;
+        position: absolute;
+        top: 13px;
+        left: -9px;
+    }
+    
+    .unordered_list {
+        display: none;
+    }
+
+    footer img {
+        height: 15px;
+        padding-top: 5px;
+        padding-right: 5px;
+    }
+
+    .theyallow_footer {
+        font-size: 10px;
+        padding-top: 9px;
+    }
+}

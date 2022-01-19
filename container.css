@@ -1,0 +1,100 @@
+.container {
+    background-image: url(images/13.png);
+    padding-right: 10.9%;
+    padding-left: 10.7%;
+}
+
+.container h2 {
+    color: #ffffff;
+    padding-top: 43px;
+}
+
+.content {
+    padding-top: 36px;
+    padding-bottom: 167px;
+    display: flex;
+}
+
+.text_video {
+    display: flex;
+}
+
+.background_text_twitter {
+    background-color: #ec9e03;
+}
+
+.text {
+    padding: 25px 38px 34px 31px;
+    width: 280px;
+    position: relative;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 29px;
+    color: white;
+    line-height: 1.2em;
+}
+
+.text > .fa-plus {
+    position: absolute;
+    top: 209px;
+    right: 14px;
+    bottom: 13px;
+    left: 316px;
+    font-size: 11px;
+}
+
+.video {
+    position: relative;
+}
+
+.fa-play {
+    font-size: 32px;
+    color: #f5f4f2;
+    background-color: #c8a209;
+    position: absolute;
+    top: 90px;
+    right: 120px;
+    padding-top: 15px;
+    padding-right: 19px;
+    padding-bottom: 15px;
+    padding-left: 25px;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+
+.twitter {
+    min-width: 229px;
+    margin-left: 40px;
+    padding-left: 83px;
+    padding-right: 9px;
+    position: relative;
+}
+
+.twitter > .fa-plus {
+    position: absolute;
+    top: 209px;
+    right: 9px;
+    bottom: 13px;
+    left: 292px;
+    font-size: 11px;
+}
+
+.fa-twitter{
+    color: #c18000;
+    font-size: 163px;
+    padding-top: 41px;
+    padding-right: 40px;
+}
+
+.fa-plus {
+    color: #f9e2b4;
+}
+
+.twitter_number {
+    color: white;
+    padding-top: 21px;
+    position: absolute;
+    top: 10px;
+    right: 19px;
+    font-size: 25px;
+}
+
