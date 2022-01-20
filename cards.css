@@ -18,6 +18,10 @@
     padding-left: 7px;
 }
 
+.better_design p {
+    width: 180px;
+}
+
 .cards img {
     padding-bottom: 19px;
 }
