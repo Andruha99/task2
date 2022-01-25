@@ -1,2 +1,2 @@
-Второе задание. Макет адаптивного сайта
+Responsive website layout
 # task2
