@@ -1,2 +1,2 @@
-Responsive webdesign layout usin HTML and CSS
+Responsive webdesign layout using HTML and CSS
 # task2
